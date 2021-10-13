@@ -13,7 +13,7 @@ const siteMetadata = {
   github: 'https://github.com/nikkisato',
   twitter: 'https://twitter.com/nikkisatodev',
   linkedin: 'https://www.linkedin.com/in/nikkisato/',
-  locale: 'US-English',
+  locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
