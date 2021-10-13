@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Nikki Sato
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Web Developer
+company: WLCR.io
+email: nikki.satopdx@gmail.com
+twitter: https://twitter.com/nikkisatodev
+linkedin: https://www.linkedin.com/in/nikkisato/
+github: https://github.com/nikkisato
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
