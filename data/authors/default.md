@@ -1,6 +1,6 @@
 ---
 name: Nikki Sato
-avatar: /static/images/avatar.png
+avatar: /static/images/square-profile.png
 occupation: Web Developer
 company: WLCR.io
 email: nikki.satopdx@gmail.com
@@ -9,8 +9,8 @@ linkedin: https://www.linkedin.com/in/nikkisato/
 github: https://github.com/nikkisato
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi my name is Nikki Sato, I'm a Jr. Web Developer at <a href="https://wlcr.io/">WLCR.io</a>, I've always wanted to be certified as a Accessibility Specialist and now I'm documenting my journey with this blog!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I grew up in PNW, and have a huge love for traveling, and taking photos, love corgis!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+More Bio to come soon!

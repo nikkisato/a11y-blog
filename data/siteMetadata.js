@@ -4,8 +4,8 @@ const siteMetadata = {
   headerTitle: 'A11Y Journey',
   description: 'Web Developer Journey learning A11y Development',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://a11y-blog.vercel.app/',
+  siteRepo: 'https://github.com/nikkisato/a11y-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -19,11 +19,6 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
-  },
-  newsletter: {
-    // supports mailchimp, buttondown, convertkit
-    // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
   },
   comment: {
     // Select a provider and use the environment variables associated to it

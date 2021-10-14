@@ -1,12 +1,10 @@
 ---
-title: Day 0
-date: '10-12-2021'
-tags: ['next js', 'math', 'ols']
+title: Day 0 - Setting up Blog
+date: '10-13-2021'
+tags: ['next js', 'accessibility', 'vercel']
 draft: false
-summary: Example of a markdown file with code blocks and syntax highlighting
+summary: Setting up Next js starter blog, to start the accessibility journey
 ---
-
-A sample post with markdown.
 
 ## Inline Highlighting
 
